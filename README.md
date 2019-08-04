@@ -1,7 +1,7 @@
 # Fintech_Case_Study
 Case Study on 100-Ladrillos
 
-# ->100 Ladrillos - Tokenization of Commercial Real Estate in Mexico<-
+# 100 Ladrillos - Tokenization of Commercial Real Estate in Mexico
 ![100 Ladrillos Logo](images/100ladrillos_logo.jpg)
 ---
 ![property for sale](images/100-ladrillos-property.JPG)
@@ -52,6 +52,7 @@ On the other side of the equation, 100 Ladrillos also considers real estate deve
 
 It was difficult to determine the exact technology stack the company is using.  Based on job descriptions found on angel.co, the platform appears to built on Ruby on Rails.  It is not clear which blockchain the company has used to implement their "Ladrillos" platform.  
 
+![100 Ladrillos Dashboard](images/100-ladrillos-dashboard.JPG)
 One interesting technology that the company relies on is the e.firma (e signature) offered by the Mexican government.  The e.firma is available to all Mexican citizens, and is essentially a verified Security Certific with public and private key.  This allows for indiviuals to conduct official financial transactions without the need for a notary or other cumbersome bureaucractic processes.  All 100 Ladrillos customers are required to use an e.firma, which ensures that the company can remain in compliance with Know Your Customer regulations preventing money laundering and other illegal activities.  
 
 
